@@ -10,6 +10,9 @@ Here is a little game with 2 character, a HERO and a MONSTER, choose your favori
 1 - MONSTER
 2 - HERO
 1
+```
+
+```
 Good choice, here is some stats:
 MONSTER: 
 HP: 88.0
