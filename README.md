@@ -1,7 +1,7 @@
 # Hero game
 
 The task simulates a battle between two characters, a hero and a monster. Both have a set of randomly generated abilities: health, strength, defence, speed and luck.
-The hero have some special skill like: rapid strikes(damage x2) and magic shield(damage reduction to 50%)
+The hero have some special skill like: rapid strikes(damage x2) and magic shield(50% damage reduction)
 
 Battle output:
 
